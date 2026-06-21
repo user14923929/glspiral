@@ -56,7 +56,7 @@ sudo dnf install cmake glfw-devel glew-devel mesa-libGL-devel
 ## Build
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/glspiral.git
+git clone https://github.com/user14923929/glspiral.git
 cd glspiral
 cmake -B build -DCMAKE_BUILD_TYPE=Release
 cmake --build build -j$(nproc)
