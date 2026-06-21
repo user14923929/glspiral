@@ -2,6 +2,8 @@
 
 > A visually rich OpenGL benchmark demo — a spiritual successor to `glxgears`.
 
+[![CI](https://github.com/user14923929/glspiral/actions/workflows/ci.yml/badge.svg)](https://github.com/user14923929/glspiral/actions/workflows/ci.yml)
+
 Instead of rotating gears, **glspiral** renders **five intertwined 3D spirals** built as tube meshes with per-vertex HSV colour gradients, Phong-style diffuse lighting, an animated light source, pulse animation, and interactive mouse rotation.  It reports live FPS in the window title — just like `glxgears`, but prettier.
 
 ![screenshot placeholder](.github/assets/screenshot.png)
